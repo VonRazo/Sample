@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> HTML Cheat Sheet</title>
+		<link rel="stylesheet" type="text/css" href="">
+	</head>
+	<body>
+
+		<!--HEADINGS-->
+		<h1>Heading One</h1>h1>
+
+		<!-- PARAGRAPH -->
+		<p>
+			Charan <strong>charan</strong> charan <a href="about.http://google.com>" target>charan
+
+		</p>
+	</body>
+
+</html>
